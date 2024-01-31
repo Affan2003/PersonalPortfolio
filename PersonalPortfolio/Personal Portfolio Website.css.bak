@@ -1,0 +1,59 @@
+.navbar{
+background-color: black;
+border-radius: 90px;
+}
+.navbar li{
+float:left;
+list-style: none;
+margin: 13px 20px;
+}
+.navbar ul{
+overflow: auto;
+}
+.navbar li a{
+padding: 10px 10px;
+text-decoration: font;
+color: white;
+}
+<div class="search">
+<input type="text" name="search" id="search"
+placeholder="Search this website">
+</div>
+.search{
+float: right-side;
+color: white;
+padding: 6px 90px;
+}
+.navbar input{
+border: 2px black;
+border-radius: 14px;
+padding: 3px 17px;
+width: 129px;
+}
+.navbar li a:hover{
+	color: yellow
+}
+h1{
+	font-size = 300px;
+	font-family : Algerian ;
+	color : black;
+	text-align : center;
+}
+h2{
+	font-size = 300px;
+	font-family : Calibri ;
+	color : red;
+	text-align : center;
+}
+.pic{
+	flex: 1 1 auto;
+	margin-left: 65%;
+	position : relative; top:-150px;
+}
+p{
+    font-size = 400px;
+	font-family : Calibri ;
+	color : black;
+	text-align : center;
+}
+	
